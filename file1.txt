@@ -3,3 +3,5 @@ This is my first git file.
 Here is another line.
 
 And a last line.
+
+Added new last line.
